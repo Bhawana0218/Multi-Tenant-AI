@@ -248,9 +248,10 @@ Scalable Codebase: Designed to support hundreds of tenants and thousands of conv
 ```
 
 ## 🧑‍💻 Author
-
+```text
 Bhawana Bisht
 https://github.com/Bhawana0218 | www.linkedin.com/in/bhawana-bisht-5442582b3
+```
 
 <div align="center">
 <sub>Built with ❤️ using Next.js, MongoDB, and OpenRouter</sub>
