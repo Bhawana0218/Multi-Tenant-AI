@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://image.qwenlm.ai/public_source/6a6718ab-4b30-421e-8796-d585cc7b55a5/1a35f5b67-e451-4d6f-ac1c-92a47bf93cbc.png" alt="Multi-Tenant AI Assistant Platform Hero Banner" width="100%" />
   
   <h1>Multi-Tenant AI Assistant Platform</h1>
   
