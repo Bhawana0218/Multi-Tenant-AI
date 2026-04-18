@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+  background-color: #030712; /* gray-950 */
+  color: red;
+}
+
+
+/* mongodb+srv://AcademiaX:<db_password>@cluster0.wazyraz.mongodb.net/?appName=Cluster0 */
+
+/* mongodb+srv://AcademiaX:AcademiaX%40123@cluster0.wazyraz.mongodb.net/?appName=Cluster0 */
